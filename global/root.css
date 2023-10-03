@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+    background-color: #E5E5E5;
+}
+
+:root {
+    --primary-yellow: #FEAF00 ;
+    
+    --yellow-tint: #F2EAE1;
+
+    --neutral-000: #ffffff;
+    --neutral-100: #F8F8F8;
+    --neutral-200: #E5E5E5;
+    --neutral-300: #D4D4D4;
+    --neutral-400: #ACACAC;
+    --neutral-500: #737373;
+    --neutral-600: #525252;
+    --neutral-700: #404040;
+    --neutral-800: #262626;
+
+
+    --pd-container-x: 2rem;
+    --pd-container-y: 3rem;
+}
